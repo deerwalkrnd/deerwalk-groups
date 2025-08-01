@@ -102,12 +102,12 @@ document.querySelector<HTMLDivElement>("#app")!.innerHTML = `
                 <div class="avatar">
                   <img
                     class="testimonial-image"
-                    src="../assets/images/avatar/pooja-neupane.png"
+                    src="../assets/images/avatar/nizu-dahal.png"
                     alt="avatar"
                   />
                 </div>
-                <p class="helvetica finance">Director of Finance</p>
-                <strong class="roboto-500">Pooja Neupane</strong>
+                <p class="helvetica finance">Director of Administration</p>
+                <strong class="roboto-500">Nizu Dahal</strong>
               </div>
 
               <!-- Hariram Khadka -->
@@ -129,30 +129,10 @@ document.querySelector<HTMLDivElement>("#app")!.innerHTML = `
 
               <!-- NEW TEAM MEMBERS START HERE -->
 
-              <div class="testimonial animate__animated animate__fadeInUp">
-                <div class="avatar">
-                  <img
-                    class="testimonial-image"
-                    src="../assets/images/avatar/nizu-dahal.png"
-                    alt="avatar"
-                  />
-                </div>
-                <p class="helvetica finance">Director of Administration</p>
-                <strong class="roboto-500">Nizu Dahal</strong>
-              </div>
+             
 
               <!-- Alisha Thapa Magar -->
-              <div class="testimonial animate__animated animate__fadeInUp">
-                <div class="avatar">
-                  <img
-                    class="testimonial-image"
-                    src="../assets/images/avatar/alisha-thapa-magar.png"
-                    alt="avatar"
-                  />
-                </div>
-                <p class="helvetica finance">Human Resources Officer</p>
-                <strong class="roboto-500">Alisha Thapa Magar</strong>
-              </div>
+             
               <!-- our testimonial card ends here -->
 
               <!-- our testimonial card ends here -->
