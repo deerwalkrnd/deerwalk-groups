@@ -82,7 +82,7 @@ document.querySelector<HTMLDivElement>("#app")!.innerHTML = `
                 <div class="avatar">
                   <img
                     class="testimonial-image"
-                    src="../assets/images/avatar/1.png"
+                    src="../assets/images/avatar/hitesh_karki_Sir.jpg"
                     alt="avatar"
                   />
                 </div>
