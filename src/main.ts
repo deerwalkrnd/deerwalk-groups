@@ -2,42 +2,6 @@ import "./style.css";
 
 
 document.querySelector<HTMLDivElement>("#app")!.innerHTML = `
-  <!-- ====================================MODEL====================================  -->
-
-    <section class="model-wrapper invisible">
-      <div class="model-block animate__animated animate__zoomInUp">
-        <header class="model-header">
-          <div class="cross-icon-container">
-            <i class="bx bx-x"></i>
-          </div>
-        </header>
-        <div class="avatar-container">
-          <img
-            id="model_image"
-            src="../assets/images/avatar/first-person.png"
-            alt="picture of a person"
-          />
-        </div>
-
-        <h3 class="helvetica" id="model-name">Rudra Pandey</h3>
-        <h5 class="roboto-300" id="model-designation">
-          Chairperson Emeritus/Founder
-        </h5>
-
-        <p
-          class="roboto-400"
-          id="model-description"
-          style="text-align: justify"
-        >
-          Lorem ipsum dolor sit amet consectetur, adipisicing elit. Repellat
-          culpa odit magnam? Est quos expedita maiores commodi, alias ipsam
-          quis. Lorem ipsum dolor sit amet consectetur, adipisicing elit.
-          Repellat culpa odit magnam? Est quos expedita maiores commodi, alias
-          ipsam quis.
-        </p>
-      </div>
-    </section>
-
     <!-- ====================================Screen Starts Here====================================  -->
 
     <main id="home-screen">
