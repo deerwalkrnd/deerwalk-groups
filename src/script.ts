@@ -38,12 +38,7 @@ document.addEventListener('DOMContentLoaded', () => {
         //     description:
         //         "Samjhana brings over eight years of experience in higher education, having contributed to key areas such as Admissions, Administration, Examination, and Placement. As Vice President of Academic Affairs, she is dedicated to advancing academic quality, driving innovation, and strengthening institutional growth.She holds a Bachelor's in Information Management and a Master's in English Literature from Pokhara University, along with a Master's in Data Science from the University of Westminster, London—reflecting her interdisciplinary expertise across humanities, management, and technology.With a strong blend of academic and administrative insight, Samjhana is committed to fostering a forward-thinking, student-focused academic environment.",
         // },
-        // {   
-        //     name: "Pooja Neupane",
-        //     designation: "Director of Finance",
-        //     description:
-        //         "Pooja Neupane has recently assumed the role of Associate Director of Finance at Deerwalk Group Limited. Holding a Chartered Accountant designation from the Institute of Chartered Accountants of India, her professional journey includes notable experience at TR Upadhya and Co., where she honed her skills in accounting and finance.",
-        // },
+   
         // {
         //     name: "Ujjwal Poudel",
         //     designation: "Vice Principal / DSS Administrative Affairs",
@@ -72,12 +67,18 @@ document.addEventListener('DOMContentLoaded', () => {
             description:
                 "Nizu Dahal brings over 14 years of professional experience in people and culture management, spanning roles in hospitals, software companies, and academia. With a seamless transition into higher education, Nizu is currently dedicated to nurturing future leaders and contributing to the institutional growth of Deerwalk Institute of Technology. Her academic background includes a Master's degree in International Relations and Diplomacy from Tribhuvan University, which equips her to foster positive student relations, prepare students for future employment, and enhance organizational dynamics.",
         },
-         {
-            name: "Hariram Khadka",
-            designation: "Administration and Legal Officer",
+        {   
+            name: "Pooja Neupane",
+            designation: "Director of Finance",
             description:
-                "Hariram Khadka is the Admin Officer at Deerwalk Group, responsible for overseeing administrative operations and ensuring smooth day-to-day functioning of the organization. His attention to detail and organizational skills make him an invaluable asset to the administrative team, supporting various departments in their operational needs.",
+                "Pooja Neupane has recently assumed the role of Associate Director of Finance at Deerwalk Group Limited. Holding a Chartered Accountant designation from the Institute of Chartered Accountants of India, her professional journey includes notable experience at TR Upadhya and Co., where she honed her skills in accounting and finance.",
         },
+        //  {
+        //     name: "Hariram Khadka",
+        //     designation: "Administration and Legal Officer",
+        //     description:
+        //         "Hariram Khadka is the Admin Officer at Deerwalk Group, responsible for overseeing administrative operations and ensuring smooth day-to-day functioning of the organization. His attention to detail and organizational skills make him an invaluable asset to the administrative team, supporting various departments in their operational needs.",
+        // },
         // {
         //     name: "Alisha Thapa Magar",
         //     designation: "Human Resource Officer",

@@ -46,7 +46,7 @@ document.querySelector<HTMLDivElement>("#app")!.innerHTML = `
                 <div class="avatar">
                   <img
                     class="testimonial-image"
-                    src="../assets/images/avatar/1.png"
+                    src="../assets/images/avatar/hitesh_karki_Sir.jpg"
                     alt="avatar"
                   />
                 </div>
@@ -79,12 +79,12 @@ document.querySelector<HTMLDivElement>("#app")!.innerHTML = `
                 <div class="avatar">
                   <img
                     class="testimonial-image"
-                    src="../assets/images/avatar/hariram-khadka.png"
+                    src="../assets/images/avatar/pooja-neupane.png"
                     alt="avatar"
                   />
                 </div>
-                <p class="helvetica finance">Administration and Legal Officer</p>
-                <strong class="roboto-500">Hariram Khadka</strong>
+                <p class="helvetica finance">Director of Finance</p>
+                <strong class="roboto-500">Pooja Neupane</strong>
               </div>
 
               <!-- our testimonial card starts here -->
