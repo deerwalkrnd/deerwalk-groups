@@ -688,7 +688,7 @@ canvas {
 }
 
 /* Original responsive breakpoints maintained */
-@media only screen and (min-width: 1206px) {
+@media only screen and (max-width: 1206px) {
   .featured-cards {
     margin-top: 2rem;
   }
@@ -727,11 +727,11 @@ canvas {
   }
 }
 
-@media only screen and (min-width: 1206px) and (max-width: 1319px) {
+/* @media only screen and (min-width: 1206px) and (max-width: 1319px) {
   .featured-cards {
     width: 10%;
   }
-}
+} */
 
 @media only screen and (max-width: 1435px) {
   .featured-card-block section {
