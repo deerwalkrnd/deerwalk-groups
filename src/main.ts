@@ -178,6 +178,20 @@ document.querySelector<HTMLDivElement>("#app")!.innerHTML = `
 
             <!-- 5th featured card starts here  -->
             <a
+              href="https://dbs.deerwalk.edu.np/"
+              target="_blank"
+              class="text-decoration-none featured-cards"
+            >
+              <div>
+                <img src="../assets/icons/dwit-no-text.png" alt="deerwalk icon" />
+              </div>
+              <h2 class="inter-700 featured-border--savoy-blue">
+                Deerwalk Bharatpur School
+              </h2>
+            </a>
+
+            <!-- 6th featured card starts here  -->
+            <a
               href="https://deerwalktrainingcenter.com/"
               target="_blank"
               class="text-decoration-none featured-cards"

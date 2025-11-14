@@ -17,6 +17,7 @@
   --blended-blue-opaque: #0d4674ad;
   --scrollbar-bg: #eff1f5;
   --jungle-green: #2faf94;
+  --savoy-blue: #4f65de;
 }
 
 * {
@@ -698,6 +699,13 @@ canvas {
   }
 }
 
+@media only screen and (min-width: 1436px) {
+  .featured-cards {
+    min-width: 24rem !important;
+    max-width: fit-content;
+  }
+}
+
 @media only screen and (max-width: 1435px) {
   .featured-cards {
     width: 33.33%;
@@ -797,6 +805,10 @@ canvas {
 
 .featured-border--cyan {
   border-bottom: 5px solid var(--primary-cyan);
+}
+
+.featured-border--savoy-blue {
+  border-bottom: 5px solid var(--savoy-blue);
 }
 
 /* Mobile responsive border thickness */
