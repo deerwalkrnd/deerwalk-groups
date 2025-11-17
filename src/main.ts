@@ -74,7 +74,7 @@ document.querySelector<HTMLDivElement>("#app")!.innerHTML = `
                 <strong class="roboto-500">Nizu Dahal</strong>
               </div>
 
-              <!-- Hariram Khadka -->
+              <!-- Pooja Neupane -->
               <div class="testimonial animate__animated animate__fadeInUp">
                 <div class="avatar">
                   <img
