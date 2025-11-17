@@ -279,7 +279,8 @@ canvas {
   
   .testimonial-division .upper-division,
   .testimonial-division .middle-division,
-  .testimonial-division .second-last-division {
+  .testimonial-division .second-last-division,
+  .testimonial-division .lower-division {
     width: 100%;
     max-width: 280px;
   }
@@ -755,7 +756,7 @@ canvas {
   }
 }
 
-@media only screen and (max-width: 1600px) {
+@media only screen and (max-width: 3200px) {
   .featured-card-block section {
     width: 60vw;
     flex-wrap: wrap;
