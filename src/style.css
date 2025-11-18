@@ -767,6 +767,12 @@ canvas {
   }
 }
 
+@media (min-width: 969px) and (max-width: 3200px) {
+  .featured-card-block section {
+    margin-bottom: 3rem;
+}
+}
+
 @media only screen and (min-width: 1436px) and (max-width: 1553px) {
   .featured-card-block section {
     width: 60vw;
