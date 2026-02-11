@@ -178,7 +178,7 @@ document.querySelector<HTMLDivElement>("#app")!.innerHTML = `
 
             <!-- 5th featured card starts here  -->
             <a
-              href="https://dbs.deerwalk.edu.np/"
+              href="https://deerwalk.edu.np/bharatpur-school"
               target="_blank"
               class="text-decoration-none featured-cards"
             >
