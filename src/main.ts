@@ -1,5 +1,5 @@
 import "./style.css";
-
+import "./script";
 
 document.querySelector<HTMLDivElement>("#app")!.innerHTML = `
     <!-- ====================================Screen Starts Here====================================  -->
@@ -205,6 +205,24 @@ document.querySelector<HTMLDivElement>("#app")!.innerHTML = `
         </div>
       </section>
     </main>
+
+    <div class="model-wrapper invisible">
+      <div class="model-block animate__animated animate__zoomIn">
+        <div class="model-header">
+          <div class="cross-icon-container">
+            <i class="bx bx-x"></i>
+          </div>
+        </div>
+
+        <div class="avatar-container">
+          <img id="model_image" src="" alt="testimonial avatar" />
+        </div>
+
+        <h3 id="model-name" class="roboto-700"></h3>
+        <h5 id="model-designation" class="roboto-500"></h5>
+        <p id="model-description" class="roboto-400"></p>
+      </div>
+    </div>
 
     <!-- =====================================footer starts here  -->
     <footer class="primary-footer inter-700">Sifal, Kathmandu, Nepal</footer>
