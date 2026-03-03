@@ -46,12 +46,30 @@ document.querySelector<HTMLDivElement>("#app")!.innerHTML = `
                 <div class="avatar">
                   <img
                     class="testimonial-image"
-                    src="../assets/images/avatar/hitesh_karki_Sir.jpg"
+                    src="../assets/images/avatar/hitesh_karki_Sir.png"
                     alt="avatar"
                   />
                 </div>
                 <p class="helvetica">Chairperson</p>
                 <strong class="roboto-500">Hitesh Karki</strong>
+              </div>
+              <!-- our testimonial card ends here -->
+            </div>
+
+
+            <!--  middle container containing second & only one testimonial card  -->
+            <div class="middle-division" style="margin-top: 10px">
+              <!-- our testimonial card starts here -->
+              <div class="testimonial animate__animated animate__fadeInUp">
+                <div class="avatar">
+                  <img
+                    class="testimonial-image"
+                    src="../assets/images/avatar/Samjhana_pokhrel.png"
+                    alt="avatar"
+                  />
+                </div>
+                <p class="helvetica">Vice President of Academic Affairs</p>
+                <strong class="roboto-500">Samjhana Pokhrel</strong>
               </div>
               <!-- our testimonial card ends here -->
             </div>
