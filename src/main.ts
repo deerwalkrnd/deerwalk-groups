@@ -80,7 +80,7 @@ document.querySelector<HTMLDivElement>("#app")!.innerHTML = `
             <div class="lower-division">
               <!-- our testimonial card starts here -->
 
-              <div class="testimonial animate__animated animate__fadeInUp">
+             <!--- <div class="testimonial animate__animated animate__fadeInUp">
                 <div class="avatar">
                   <img
                     class="testimonial-image"
@@ -90,7 +90,7 @@ document.querySelector<HTMLDivElement>("#app")!.innerHTML = `
                 </div>
                 <p class="helvetica finance">Director of Administration</p>
                 <strong class="roboto-500">Nizu Dahal</strong>
-              </div>
+              </div> --->
 
               <!-- Pooja Neupane -->
               <div class="testimonial animate__animated animate__fadeInUp">
