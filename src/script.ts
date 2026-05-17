@@ -35,10 +35,10 @@ document.addEventListener("DOMContentLoaded", () => {
         "Hitesh's core responsibility is to look after the curriculum, ensure timely execution of classes and help connect the students with the happenings of the industry. He completed his Bachelor's degree in Computer Science, from Ferguson College, Pune University, his MBA (Executive) from Kathmandu University (KU) and is currently pursuing his PhD from Kathmandu University.",
     },
     {
-        name: "Samjhana Pokhrel",
-        designation: "Vice President of Academic Affairs",
-        description:
-            "Samjhana brings over eight years of experience in higher education, having contributed to key areas such as Admissions, Administration, Examination, and Placement. As Vice President of Academic Affairs, she is dedicated to advancing academic quality, driving innovation, and strengthening institutional growth.She holds a Bachelor's in Information Management and a Master's in English Literature from Pokhara University, along with a Master's in Data Science from the University of Westminster, London—reflecting her interdisciplinary expertise across humanities, management, and technology.With a strong blend of academic and administrative insight, Samjhana is committed to fostering a forward-thinking, student-focused academic environment.",
+      name: "Samjhana Pokhrel",
+      designation: "Vice President of Academic Affairs",
+      description:
+        "Samjhana brings over eight years of experience in higher education, having contributed to key areas such as Admissions, Administration, Examination, and Placement. As Vice President of Academic Affairs, she is dedicated to advancing academic quality, driving innovation, and strengthening institutional growth.She holds a Bachelor's in Information Management and a Master's in English Literature from Pokhara University, along with a Master's in Data Science from the University of Westminster, London—reflecting her interdisciplinary expertise across humanities, management, and technology.With a strong blend of academic and administrative insight, Samjhana is committed to fostering a forward-thinking, student-focused academic environment.",
     },
 
     // {
@@ -62,12 +62,12 @@ document.addEventListener("DOMContentLoaded", () => {
     // },
     // NEW TEAM MEMBERS DATA
 
-    {
-      name: "Nizu Dahal",
-      designation: "Director of Administration - DWIT",
-      description:
-        "Nizu Dahal brings over 14 years of professional experience in people and culture management, spanning roles in hospitals, software companies, and academia. With a seamless transition into higher education, Nizu is currently dedicated to nurturing future leaders and contributing to the institutional growth of Deerwalk Institute of Technology. Her academic background includes a Master's degree in International Relations and Diplomacy from Tribhuvan University, which equips her to foster positive student relations, prepare students for future employment, and enhance organizational dynamics.",
-    },
+    // {
+    //   name: "Nizu Dahal",
+    //   designation: "Director of Administration - DWIT",
+    //   description:
+    //     "Nizu Dahal brings over 14 years of professional experience in people and culture management, spanning roles in hospitals, software companies, and academia. With a seamless transition into higher education, Nizu is currently dedicated to nurturing future leaders and contributing to the institutional growth of Deerwalk Institute of Technology. Her academic background includes a Master's degree in International Relations and Diplomacy from Tribhuvan University, which equips her to foster positive student relations, prepare students for future employment, and enhance organizational dynamics.",
+    // },
     {
       name: "Pooja Neupane",
       designation: "Director of Finance",
