@@ -36,9 +36,9 @@ document.addEventListener("DOMContentLoaded", () => {
     },
     {
       name: "Samjhana Pokhrel",
-      designation: "Vice President of Academic Affairs",
+      designation: "Senior Vice President (SVP) of Operations",
       description:
-        "Samjhana brings over eight years of experience in higher education, having contributed to key areas such as Admissions, Administration, Examination, and Placement. As Vice President of Academic Affairs, she is dedicated to advancing academic quality, driving innovation, and strengthening institutional growth.She holds a Bachelor's in Information Management and a Master's in English Literature from Pokhara University, along with a Master's in Data Science from the University of Westminster, London—reflecting her interdisciplinary expertise across humanities, management, and technology.With a strong blend of academic and administrative insight, Samjhana is committed to fostering a forward-thinking, student-focused academic environment.",
+        "Samjhana brings over eight years of experience in higher education, having contributed to key areas such as Admissions, Administration, Examination, and Placement. As Senior Vice President (SVP) of Operations, she is dedicated to advancing academic quality, driving innovation, and strengthening institutional growth.She holds a Bachelor's in Information Management and a Master's in English Literature from Pokhara University, along with a Master's in Data Science from the University of Westminster, London—reflecting her interdisciplinary expertise across humanities, management, and technology.With a strong blend of academic and administrative insight, Samjhana is committed to fostering a forward-thinking, student-focused academic environment.",
     },
 
     // {
