@@ -68,7 +68,7 @@ document.querySelector<HTMLDivElement>("#app")!.innerHTML = `
                     alt="avatar"
                   />
                 </div>
-                <p class="helvetica">Vice President of Academic Affairs</p>
+                <p class="helvetica">Senior Vice President of Operations</p>
                 <strong class="roboto-500">Samjhana Pokhrel</strong>
               </div>
               <!-- our testimonial card ends here -->
