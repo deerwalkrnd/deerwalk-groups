@@ -153,7 +153,7 @@ document.querySelector<HTMLDivElement>("#app")!.innerHTML = `
 
             <!-- 2nd featured card starts here  -->
             <a
-              href="https://deerwalk.edu.np/sifalschool"
+              href="https://deerwalk.edu.np/sifal-school"
               target="_blank"
               class="text-decoration-none featured-cards"
             >
